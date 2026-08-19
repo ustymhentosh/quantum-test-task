@@ -1,6 +1,6 @@
 # Quantum Test Task
 
-This repository contains three independent tasks (algorithms, ML, and OOP) used for an evaluation exercise. Each task lives under `src/` .
+This repository contains three independent tasks (algorithms, ML, and OOP) used for an evaluation exercise. Every task lives under `src/task_n` folder.
 
 **Project layout**
 
@@ -15,4 +15,3 @@ This repository contains three independent tasks (algorithms, ML, and OOP) used 
 - Task 3 — MNIST classifier (OOP) [src/task3](src/task3) 
     - files: [main.py](src/task3/main.py), [classifier.py](src/task3/classifier.py), [interfaces.py](src/task3/interfaces.py), [models.py](src/task3/models.py)
     - A small demo entrypoint is provided in `main.py`
-----
